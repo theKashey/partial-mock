@@ -1,11 +1,21 @@
-👯partial-mock
+<div align="center">
+  <h1>👯 partial-mock</h1>
+ always watching your data
+ <br/>
+   <a href="https://www.npmjs.com/package/partial-mock">
+    <img src="https://img.shields.io/npm/v/partial-mock.svg?style=flat-square" />
+  </a>
+<br/>
+<br/>
+</div>
 
-====
+
+
 
 Proxy-base, testing-framework-independent solution to solve _overmocking_, and _undermocking_.
 Never provide more information than you should, never provide less.
 
-- solves the 'as' problem in TypeScript tests when an inappropriate object is used as a mock
+- solves the `as` problem in TypeScript tests when an inappropriate object can be used as a mock
 - ensures provided mocks are suitable for the test case
 
 ```bash
