@@ -1,5 +1,12 @@
 {
   "name": "partial-mock",
+  "description": "Comprehensive solution for partial mocking",
+  "keywords": [
+    "mocking",
+    "typescript",
+    "spy",
+    "partial"
+  ],
   "version": "0.0.1",
   "main": "dist/es5/index.js",
   "author": "Anton Korzunov <thekashey@gmail.com>",
@@ -36,8 +43,7 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
-  "repository": "",
+  "repository": "https://github.com/theKashey/partial-mock",
   "lint-staged": {
     "*.{ts,tsx}": [
       "prettier --write",
