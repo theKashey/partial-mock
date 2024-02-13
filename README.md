@@ -22,6 +22,8 @@ Never provide more information than you should, never provide less.
 npm add --dev partial-mock
 ```
 
+📖 [Partial: how NOT to mock the whole world](https://dev.to/thekashey/partial-how-not-to-mock-the-whole-world-32pj)
+
 ## Problem statement
 ```tsx
 type User = {
